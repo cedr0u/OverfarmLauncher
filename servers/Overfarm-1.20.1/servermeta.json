@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/cedri/HeliosLauncher/Nebula/export/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Overfarm (Minecraft 1.20.1)",
+    "description": "Overfarm Running Minecraft 1.20.1 (Forge v47.2.5)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "play.overfarm.fr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.2.5"
+  },
+  "untrackedFiles": []
+}

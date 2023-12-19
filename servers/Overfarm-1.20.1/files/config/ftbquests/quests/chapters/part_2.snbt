@@ -1,0 +1,30 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_quest_size: 3.0d
+	filename: "part_2"
+	group: "172D362E3009C3B0"
+	id: "3ECDE2AB0207AD37"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		dependencies: [
+			"5E0F7C3CFA14C0B5"
+			"2FE54ADA58B4B775"
+			"0B4007AFE50C0038"
+			"5CEB763BCD6777E0"
+			"4A371F275B884AD7"
+			"4FA472761F1B29FF"
+			"77B20FBA5066CB53"
+			"56D980CA36BE59AC"
+		]
+		id: "1484FC6F4C9E8C54"
+		tasks: [{
+			id: "63E077F8478C8142"
+			type: "custom"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Part 2"
+}
