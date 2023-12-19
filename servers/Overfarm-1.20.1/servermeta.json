@@ -4,11 +4,7 @@
     "version": "1.0.0",
     "name": "Overfarm (Minecraft 1.20.1)",
     "description": "Overfarm Running Minecraft 1.20.1 (Forge v47.2.5)",
-<<<<<<< Updated upstream
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-=======
     "icon": "https://overfarm.fr/storage/img/logo2.png",
->>>>>>> Stashed changes
     "address": "play.overfarm.fr",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -16,7 +12,7 @@
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "mainServer": true,
-    "autoconnect": false
+    "autoconnect": true
   },
   "forge": {
     "version": "47.2.5"
