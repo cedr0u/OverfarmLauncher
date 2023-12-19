@@ -3,7 +3,7 @@
   "meta": {
     "version": "1.0.0",
     "name": "Overfarm (Minecraft 1.20.1)",
-    "description": "Overfarm Running Minecraft 1.20.1 (Forge v47.2.5)",
+    "description": "Overfarm Running Minecraft 1.20.1 (Forge v47.2.0)",
     "icon": "https://overfarm.fr/storage/img/logo2.png",
     "address": "play.overfarm.fr",
     "discord": {
@@ -15,7 +15,7 @@
     "autoconnect": true
   },
   "forge": {
-    "version": "47.2.5"
+    "version": "47.2.0"
   },
   "untrackedFiles": []
 }
