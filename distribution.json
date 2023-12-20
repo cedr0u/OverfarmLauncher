@@ -31,7 +31,7 @@
           "artifact": {
             "size": 7397,
             "MD5": "f538b3b9ad1668b3d92945741f841071",
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar"
+            "url": "https://overfarm.fr/launcher/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar"
           },
           "subModules": [
             {
@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 16542,
                 "MD5": "374162e774d7cf1b09af7af4d7805982",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/versions/1.20.1-forge-47.2.0/1.20.1-forge-47.2.0.json"
+                "url": "https://overfarm.fr/launcher/repo/versions/1.20.1-forge-47.2.0/1.20.1-forge-47.2.0.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 117589,
                 "MD5": "549205a1ba89e1c0735d9a46a338e715",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 16371,
                 "MD5": "ab1c94373972048884a363d08bd1720d",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 4996,
                 "MD5": "1bb13fed852f5088675101b9c6b538a0",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 2672123,
                 "MD5": "5902d79463abb7a3746c777c3919143e",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-universal.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-universal.jar"
               },
               "subModules": []
             },
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 4791112,
                 "MD5": "d805b1803123c683648f2e65dd98f3a8",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-client.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-client.jar"
               },
               "subModules": []
             },
@@ -112,7 +112,7 @@
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
               },
               "subModules": []
             },
@@ -124,7 +124,7 @@
               "artifact": {
                 "size": 12592249,
                 "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
               },
               "subModules": []
             },
@@ -136,7 +136,7 @@
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
               },
               "subModules": []
             },
@@ -147,7 +147,7 @@
               "artifact": {
                 "size": 88749,
                 "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
               }
             },
             {
@@ -157,7 +157,7 @@
               "artifact": {
                 "size": 121863,
                 "MD5": "29721ee4b5eacf0a34b204c345c8bc69",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/org/ow2/asm/asm/9.5/asm-9.5.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/org/ow2/asm/asm/9.5/asm-9.5.jar"
               }
             },
             {
@@ -167,7 +167,7 @@
               "artifact": {
                 "size": 72209,
                 "MD5": "7d1fce986192f71722b19754e4cb9e61",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
               }
             },
             {
@@ -177,7 +177,7 @@
               "artifact": {
                 "size": 51944,
                 "MD5": "44755681b7d6fa7143afbb438e55c20c",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
               }
             },
             {
@@ -187,7 +187,7 @@
               "artifact": {
                 "size": 91076,
                 "MD5": "ad0016249fb68bb9196babefd47b80dc",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
               }
             },
             {
@@ -197,7 +197,7 @@
               "artifact": {
                 "size": 33978,
                 "MD5": "4df0adafc78ebba404d4037987d36b61",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
               }
             },
             {
@@ -207,7 +207,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -217,7 +217,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -227,7 +227,7 @@
               "artifact": {
                 "size": 53985,
                 "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
               }
             },
             {
@@ -237,7 +237,7 @@
               "artifact": {
                 "size": 29831,
                 "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
               }
             },
             {
@@ -247,7 +247,7 @@
               "artifact": {
                 "size": 24199,
                 "MD5": "8c590051c5d65e098ca7c2e3ddf803a8",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
               }
             },
             {
@@ -257,7 +257,7 @@
               "artifact": {
                 "size": 130343,
                 "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
               }
             },
             {
@@ -267,7 +267,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -277,7 +277,7 @@
               "artifact": {
                 "size": 2572,
                 "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
               }
             },
             {
@@ -287,7 +287,7 @@
               "artifact": {
                 "size": 199834,
                 "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
               }
             },
             {
@@ -297,7 +297,7 @@
               "artifact": {
                 "size": 31816,
                 "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
               }
             },
             {
@@ -307,7 +307,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -317,7 +317,7 @@
               "artifact": {
                 "size": 18281,
                 "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
               }
             },
             {
@@ -327,7 +327,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -337,7 +337,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -347,7 +347,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -357,7 +357,7 @@
               "artifact": {
                 "size": 1089277,
                 "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
               }
             },
             {
@@ -367,7 +367,7 @@
               "artifact": {
                 "size": 2167288,
                 "MD5": "91e98c20afa1090c344229ce28b4c53f",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
               }
             },
             {
@@ -377,7 +377,7 @@
               "artifact": {
                 "size": 17374,
                 "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
               }
             },
             {
@@ -387,7 +387,7 @@
               "artifact": {
                 "size": 15895,
                 "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
               }
             },
             {
@@ -397,7 +397,7 @@
               "artifact": {
                 "size": 8284,
                 "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
               }
             },
             {
@@ -407,7 +407,7 @@
               "artifact": {
                 "size": 32195,
                 "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
               }
             },
             {
@@ -417,7 +417,7 @@
               "artifact": {
                 "size": 264245,
                 "MD5": "6ea3c95084cc6dec3205fae098bb8cab",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.2.0/fmlloader-1.20.1-47.2.0.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.2.0/fmlloader-1.20.1-47.2.0.jar"
               }
             },
             {
@@ -427,7 +427,7 @@
               "artifact": {
                 "size": 170333,
                 "MD5": "7050197358f88cf4ea899066fc97625d",
-                "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.2.0/fmlearlydisplay-1.20.1-47.2.0.jar"
+                "url": "https://overfarm.fr/launcher/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.2.0/fmlearlydisplay-1.20.1-47.2.0.jar"
               }
             }
           ]
@@ -438,7 +438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 119645,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/adaptive_performance_tweaks_core_1.20.1-10.2.0.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/adaptive_performance_tweaks_core_1.20.1-10.2.0.jar",
             "MD5": "cff1ab448806cbdf43d9d6ebf1e035f1"
           }
         },
@@ -448,7 +448,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 71884,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/adaptive_performance_tweaks_items_1.20.1-10.0.0.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/adaptive_performance_tweaks_items_1.20.1-10.0.0.jar",
             "MD5": "97bcafc54e9a01ce5e50c8e9b558b7f3"
           }
         },
@@ -458,7 +458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 143111,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/adaptive_performance_tweaks_spawn_1.20.1-10.2.0.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/adaptive_performance_tweaks_spawn_1.20.1-10.2.0.jar",
             "MD5": "d55839ef13b7b5d39f5161da0afb24e8"
           }
         },
@@ -468,7 +468,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 107144,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/anti-xray-1.3.1-Forge-1.20.1.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/anti-xray-1.3.1-Forge-1.20.1.jar",
             "MD5": "63df14590145166e452ab2c6ac7bba2d"
           }
         },
@@ -478,8 +478,21 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 610752,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/antique_pickaxe_V0.9.4.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/antique_pickaxe_V0.9.4.jar",
             "MD5": "72106cb9ed1454e489ba0d2a56977619"
+          }
+        },
+        {
+          "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
+          "name": "AppleSkin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47428,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/optionalon/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "MD5": "dae63cea9c951dda542a4005ceef3953"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -488,18 +501,46 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 567166,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/architectury-9.0.8-forge.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/architectury-9.0.8-forge.jar",
             "MD5": "02ac749cdcd9f064202dd0253b59365c"
           }
         },
         {
-          "id": "net.darkhax:attributefix:21.0.1@jar",
-          "name": "AttributeFix",
+          "id": "betteradvancements:betteradvancements:0.3.2.161@jar",
+          "name": "Better Advancements",
           "type": "ForgeMod",
           "artifact": {
-            "size": 19416,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/AttributeFix-Forge-1.20.1-21.0.1.jar",
-            "MD5": "c950abf6749919197b8e985d5ea8281e"
+            "size": 71898,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/optionaloff/BetterAdvancements-1.20.1-0.3.2.161.jar",
+            "MD5": "e5a8ed93e291c79acf2bbe9a9d19f640"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "com.tterrag:blur:3.1.1@jar",
+          "name": "Blur (Forge)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 177259,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/optionaloff/blur-forge-3.1.1.jar",
+            "MD5": "1eb8a13698f8d4204094b5ea189c31d3"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "net.darkhax:bookshelf:20.1.7@jar",
+          "name": "Bookshelf",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 339465,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/Bookshelf-Forge-1.20.1-20.1.7.jar",
+            "MD5": "81e1928cca30476a4d3405c68ab73129"
           }
         },
         {
@@ -508,7 +549,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12648,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/caveblock1.20.1.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/caveblock1.20.1.jar",
             "MD5": "6da030f3cabaa02eb44865a24c73193d"
           }
         },
@@ -518,28 +559,41 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 327983,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/Chunky-1.3.92.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/Chunky-1.3.92.jar",
             "MD5": "e5bd56578b84303db9ebd2a851e0be6d"
           }
         },
         {
-          "id": "net.cristellib:cristellib:1.1.5@jar",
-          "name": "Cristel Lib",
+          "id": "com.blamejared:controlling:12.0.2@jar",
+          "name": "Controlling",
           "type": "ForgeMod",
           "artifact": {
-            "size": 431448,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/cristellib-1.1.5-forge.jar",
-            "MD5": "60cd2d0a4d05922e24731eba64dcded4"
+            "size": 115280,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/optionalon/Controlling-forge-1.20.1-12.0.2.jar",
+            "MD5": "952274bc9994bba9733e8747558f73fa"
+          },
+          "required": {
+            "value": false
           }
         },
         {
-          "id": "com.cupboard:cupboard:1.20.1-2.1@jar",
-          "name": "Cupboard utilities",
+          "id": "lain.mods.cos.init:cosmeticarmorreworked:1.20.1-v1a@jar",
+          "name": "CosmeticArmorReworked",
           "type": "ForgeMod",
           "artifact": {
-            "size": 21465,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/cupboard-1.20.1-2.1.jar",
-            "MD5": "207b2c7c0c74db8b84d38a4f393cad71"
+            "size": 88752,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/cosmeticarmorreworked-1.20.1-v1a.jar",
+            "MD5": "2454075e9a25cbadc0fce66502e3261d"
+          }
+        },
+        {
+          "id": "cosmeticarmoursmod:cosmeticarmoursmod:1.3.3.1@jar",
+          "name": "CosmeticArmours",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1438349,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/CosmeticArmours+-+1.3.3.1+-+1.20.1.jar",
+            "MD5": "ab761a813175cc8c17f1c88b7725bf0f"
           }
         },
         {
@@ -548,8 +602,50 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 308622,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/curios-forge-5.4.5+1.20.1.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/curios-forge-5.4.5+1.20.1.jar",
             "MD5": "708c8db2f130c4483024eabc8dad31b8"
+          }
+        },
+        {
+          "id": "com.buuz135:darkmodeeverywhere:1.20.1-1.2.2@jar",
+          "name": "DarkModeEverywhere",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 31076,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/optionaloff/DarkModeEverywhere-1.20.1-1.2.2.jar",
+            "MD5": "42ab5dd449d6ff2ec8c3eaf227b5de03"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "com.seibel:distanthorizons:2.0.1-a@jar",
+          "name": "Distant Horizons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16259740,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/optionaloff/DistantHorizons-2.0.1-a-1.20.1.jar",
+            "MD5": "b05c1dd9009f911d6977cc78bd0db0ec"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "net.darkhax:enchdesc:17.0.9@jar",
+          "name": "EnchantmentDescriptions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 63505,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/optionaloff/EnchantmentDescriptions-Forge-1.20.1-17.0.9.jar",
+            "MD5": "1ec06d588e80efa709151c7a9da2dc96"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -558,8 +654,35 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2833153,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/EndlessBiomes%201.4.2s%20-%201.20.1.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/EndlessBiomes%201.4.2s%20-%201.20.1.jar",
             "MD5": "48f3767ee37649ca1e107370d61bca68"
+          }
+        },
+        {
+          "id": "de.cheaterpaul:fallingleaves:2.1.0@jar",
+          "name": "Falling Leaves",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 130363,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/optionaloff/Fallingleaves-1.20.1-2.1.0.jar",
+            "MD5": "9abb855e91488602aca8ee1d95f3e392"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 123034,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/optionalon/ferritecore-6.0.1-forge.jar",
+            "MD5": "f52f538207a4829d7060550092ce2383"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -568,7 +691,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 155787,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/ftb-essentials-forge-2001.2.1.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/ftb-essentials-forge-2001.2.1.jar",
             "MD5": "1d21f4afa79eb46063839f39452ae38f"
           }
         },
@@ -578,7 +701,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 616503,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/ftb-library-forge-2001.1.4.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/ftb-library-forge-2001.1.4.jar",
             "MD5": "709d4779d4e29419cbb43f2b5f8cea1d"
           }
         },
@@ -588,7 +711,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1151752,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/ftb-quests-forge-2001.2.0.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/ftb-quests-forge-2001.2.0.jar",
             "MD5": "63ac51a16cd3c26bf752f22683f9330f"
           }
         },
@@ -598,7 +721,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 85218,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/ftb-ranks-forge-2001.1.3.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/ftb-ranks-forge-2001.1.3.jar",
             "MD5": "3a2157d8b065b9c94229589e11632ebb"
           }
         },
@@ -608,7 +731,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 240019,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/ftb-teams-forge-2001.1.4.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/ftb-teams-forge-2001.1.4.jar",
             "MD5": "c3bc5ac7c14e198df40b2b448322f66a"
           }
         },
@@ -618,8 +741,21 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 110191,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/item-filters-forge-2001.1.0-build.59.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/item-filters-forge-2001.1.0-build.59.jar",
             "MD5": "4155fd7faf7daf46f9dcb914e93893e1"
+          }
+        },
+        {
+          "id": "snownee.jade:jade:11.6.3@jar",
+          "name": "Jade",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 514951,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/optionalon/Jade-1.20.1-forge-11.6.3.jar",
+            "MD5": "ce4a210a03ae51630a452f63b3e4f837"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -628,28 +764,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1112891,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/jei-1.20.1-forge-15.2.0.27.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/jei-1.20.1-forge-15.2.0.27.jar",
             "MD5": "24845f7c3a6ddc59e9dcf97a2d493afa"
-          }
-        },
-        {
-          "id": "com.jtorleonstudios:libraryferret:4.0.0@jar",
-          "name": "Library ferret",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 190536,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/libraryferret-forge-1.20.1-4.0.0.jar",
-            "MD5": "68ba05aaf09f053934537af691e959df"
-          }
-        },
-        {
-          "id": "net.darkhax:maxhealthfix:12.0.1@jar",
-          "name": "MaxHealthFix",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 8944,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/MaxHealthFix-Forge-1.20.1-12.0.1.jar",
-            "MD5": "513678a5b655f8b93c776d10a5fd3ad7"
           }
         },
         {
@@ -658,8 +774,21 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 151764,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/mining_dimension-1.20.1-1.0.4.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/mining_dimension-1.20.1-1.0.4.jar",
             "MD5": "2d37522a2fc5fa1f70ca749316babf4e"
+          }
+        },
+        {
+          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.10.1+mc1.20.1@jar",
+          "name": "ModernFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 686537,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/optionalon/modernfix-forge-5.10.1+mc1.20.1.jar",
+            "MD5": "1822fc78a21a6be26a0910c0531dafdb"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -668,18 +797,21 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7028,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/moredragoneggs-4.0.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/moredragoneggs-4.0.jar",
             "MD5": "fd848b375f4e13a1399ee39afe493160"
           }
         },
         {
-          "id": "com.finndog:mvs:4.0-1.20-forge@jar",
-          "name": "Moog's Voyager Structures",
+          "id": "yalter.mousetweaks:mousetweaks:2.25@jar",
+          "name": "Mouse Tweaks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 991042,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/mvs-4.0-1.20-forge.jar",
-            "MD5": "89dceba5d50ee526a2c6b075ca24effd"
+            "size": 76146,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/optionalon/MouseTweaks-forge-mc1.20-2.25.jar",
+            "MD5": "b6e9dc4ef5626d20cb14846c63be211f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -688,8 +820,31 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1218736,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/open-parties-and-claims-forge-1.20.1-0.20.1.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/open-parties-and-claims-forge-1.20.1-0.20.1.jar",
             "MD5": "260c5177e4804a4eb7acf5c9883ad72d"
+          }
+        },
+        {
+          "id": "dev.shadowsoffire:placebo:8.6.0@jar",
+          "name": "Placebo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 285367,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/Placebo-1.20.1-8.6.0.jar",
+            "MD5": "8c3f259ad71399119d9a0fa6f0673dc5"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:polymorph:0.49.2+1.20.1@jar",
+          "name": "Polymorph",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 297860,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/optionalon/polymorph-forge-0.49.2+1.20.1.jar",
+            "MD5": "0d4515b2637d73356663b5809faf4535"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -698,8 +853,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 378265,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/RingsOfAscension-1.20.1-2.0.1.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/RingsOfAscension-1.20.1-2.0.1.jar",
             "MD5": "3f479beeb4180a365f433ddb62659edb"
+          }
+        },
+        {
+          "id": "com.blamejared:searchables:1.0.2@jar",
+          "name": "Searchables",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 77705,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/Searchables-forge-1.20.1-1.0.2.jar",
+            "MD5": "9e9dc021118c1c9727625a58a9290d48"
           }
         },
         {
@@ -708,7 +873,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1044317,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/sophisticatedcore-1.20.1-0.5.108.504.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/sophisticatedcore-1.20.1-0.5.108.504.jar",
             "MD5": "b1e46f68888d3295f6b91df50638a482"
           }
         },
@@ -718,8 +883,22 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1048249,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/sophisticatedstorage-1.20.1-0.8.58.644.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/sophisticatedstorage-1.20.1-0.8.58.644.jar",
             "MD5": "64fa5f5199c259c8dd06453f50b19fe7"
+          }
+        },
+        {
+          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.3.0@jar",
+          "name": "Sound Physics Remastered",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 165734,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/optionaloff/soundphysics-forge-1.20.1-1.3.0.jar",
+            "MD5": "964ad8790f064458a34b72cf110f3a20"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -728,7 +907,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 35841,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/staaaaaaaaaaaack-forge-1.20-1.4-61.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/staaaaaaaaaaaack-forge-1.20-1.4-61.jar",
             "MD5": "0dd4fe1a43db1a84f2b8410b9e5f5a8d"
           }
         },
@@ -738,7 +917,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1243353,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/Structory_1.20.2_v1.3.3.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/Structory_1.20.2_v1.3.3.jar",
             "MD5": "eb0b5fe2a88e4e53cc9b9321047ac0ae"
           }
         },
@@ -748,8 +927,22 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 110911,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/tarotcards-1.20-1.5.5.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/tarotcards-1.20-1.5.5.jar",
             "MD5": "9f69a57b68288f5236fe3a1d76ca1bc2"
+          }
+        },
+        {
+          "id": "dev.shadowsoffire:toastcontrol:8.0.3@jar",
+          "name": "Toast Control",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26957,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/optionaloff/ToastControl-1.20.1-8.0.3.jar",
+            "MD5": "f1bcf2e30adc3ac2e00d7f9d1a4780c6"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -758,7 +951,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3875,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/toofast-1.20-0.4.3.5.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/toofast-1.20-0.4.3.5.jar",
             "MD5": "33c8f4dc6703ee68b415ed203b3a380c"
           }
         },
@@ -768,8 +961,22 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 55273,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/Vanishmod-1.20.1-1.1.14.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/Vanishmod-1.20.1-1.1.14.jar",
             "MD5": "1c00532020b8b4933594c49f2b6f8102"
+          }
+        },
+        {
+          "id": "dev.tr7zw:waveycapes:1.3.2@jar",
+          "name": "WaveyCapes Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 327007,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/optionaloff/waveycapes-forge-1.4.0-mc1.20.jar",
+            "MD5": "c98775042b624dbc1da7dc5bbfdcd441"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -778,7 +985,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5825402,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/worldedit-mod-7.2.15.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/worldedit-mod-7.2.15.jar",
             "MD5": "bd0e7cff7896348faab92e43300d0639"
           }
         },
@@ -788,7 +995,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1339961,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/Xaeros_Minimap_23.9.3_Forge_1.20.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/Xaeros_Minimap_23.9.3_Forge_1.20.jar",
             "MD5": "591c446c9c019672698f7dcd0c699f52"
           }
         },
@@ -798,7 +1005,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 863515,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/XaerosWorldMap_1.37.2_Forge_1.20.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/XaerosWorldMap_1.37.2_Forge_1.20.jar",
             "MD5": "1b322f301d5a37d1de297c0a20cbb471"
           }
         },
@@ -808,7 +1015,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 405318,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/yawp-1.20.1-0.0.2.9-beta3-forge.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/yawp-1.20.1-0.0.2.9-beta3-forge.jar",
             "MD5": "2f6574428d926c5c50831f9bc5f5f0a3"
           }
         },
@@ -818,7 +1025,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 346402,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.2.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.2.jar",
             "MD5": "0f8ae82c18db762892048c014a7e23b2"
           }
         },
@@ -828,8 +1035,1152 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 382416,
-            "url": "https://github.com/cedr0u/OverfarmLauncher/tree/distri/servers/Overfarm-1.20.1/forgemods/required/YungsBetterEndIsland-1.20-Forge-2.0.4.jar",
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/forgemods/required/YungsBetterEndIsland-1.20-Forge-2.0.4.jar",
             "MD5": "59aa90e4eab4757d59c2c14eb2721ecd"
+          }
+        },
+        {
+          "id": "core.toml",
+          "name": "core.toml",
+          "type": "File",
+          "artifact": {
+            "size": 601,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/core.toml",
+            "MD5": "f6a46537ea68ea09e82b7b14a6197703",
+            "path": "config/adaptive_performance_tweaks/core.toml"
+          }
+        },
+        {
+          "id": "items.toml",
+          "name": "items.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1010,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/items.toml",
+            "MD5": "1e1e4cf5e26ad89fd3a3780faccb1092",
+            "path": "config/adaptive_performance_tweaks/items.toml"
+          }
+        },
+        {
+          "id": "AlexsMobsSpawn.toml",
+          "name": "AlexsMobsSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1948,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/spawn/AlexsMobsSpawn.toml",
+            "MD5": "e5a441fe618c7751d414dd5ec1890185",
+            "path": "config/adaptive_performance_tweaks/spawn/AlexsMobsSpawn.toml"
+          }
+        },
+        {
+          "id": "AquacultureSpawn.toml",
+          "name": "AquacultureSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1390,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/spawn/AquacultureSpawn.toml",
+            "MD5": "8392191002c3b562f936e7973fde5047",
+            "path": "config/adaptive_performance_tweaks/spawn/AquacultureSpawn.toml"
+          }
+        },
+        {
+          "id": "BornInChaosSpawn.toml",
+          "name": "BornInChaosSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1417,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/spawn/BornInChaosSpawn.toml",
+            "MD5": "ce685f26f020d6749b5fce6d2f766148",
+            "path": "config/adaptive_performance_tweaks/spawn/BornInChaosSpawn.toml"
+          }
+        },
+        {
+          "id": "CustomSpawn.toml",
+          "name": "CustomSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 856,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/spawn/CustomSpawn.toml",
+            "MD5": "aa620755deb79a843f38169977e32782",
+            "path": "config/adaptive_performance_tweaks/spawn/CustomSpawn.toml"
+          }
+        },
+        {
+          "id": "FishOfThievesSpawn.toml",
+          "name": "FishOfThievesSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 608,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/spawn/FishOfThievesSpawn.toml",
+            "MD5": "6ab5b97cc6a896d9bdb5f7085b5e842b",
+            "path": "config/adaptive_performance_tweaks/spawn/FishOfThievesSpawn.toml"
+          }
+        },
+        {
+          "id": "FriendsAndFoesSpawn.toml",
+          "name": "FriendsAndFoesSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 383,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/spawn/FriendsAndFoesSpawn.toml",
+            "MD5": "977a7339d665f81e9795efae8f5e0a81",
+            "path": "config/adaptive_performance_tweaks/spawn/FriendsAndFoesSpawn.toml"
+          }
+        },
+        {
+          "id": "GothicSpawn.toml",
+          "name": "GothicSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1202,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/spawn/GothicSpawn.toml",
+            "MD5": "67e49cc4deaea0ab3e835b72d43acf36",
+            "path": "config/adaptive_performance_tweaks/spawn/GothicSpawn.toml"
+          }
+        },
+        {
+          "id": "InfernalExpansionSpawn.toml",
+          "name": "InfernalExpansionSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1120,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/spawn/InfernalExpansionSpawn.toml",
+            "MD5": "df0e6a9668827d6abea0cd27b8b2527e",
+            "path": "config/adaptive_performance_tweaks/spawn/InfernalExpansionSpawn.toml"
+          }
+        },
+        {
+          "id": "MekanismAdditionsSpawn.toml",
+          "name": "MekanismAdditionsSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1043,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/spawn/MekanismAdditionsSpawn.toml",
+            "MD5": "b68e5ac6b2689522fc047bf95bbe49ee",
+            "path": "config/adaptive_performance_tweaks/spawn/MekanismAdditionsSpawn.toml"
+          }
+        },
+        {
+          "id": "MinecraftSpawn.toml",
+          "name": "MinecraftSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3217,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/spawn/MinecraftSpawn.toml",
+            "MD5": "dd99b89c41fedeb48d561dd7f8dfde38",
+            "path": "config/adaptive_performance_tweaks/spawn/MinecraftSpawn.toml"
+          }
+        },
+        {
+          "id": "NetherSpawn.toml",
+          "name": "NetherSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1204,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/spawn/NetherSpawn.toml",
+            "MD5": "46c33373ebe1bd1325656b8a9a73e357",
+            "path": "config/adaptive_performance_tweaks/spawn/NetherSpawn.toml"
+          }
+        },
+        {
+          "id": "PanthalassaSpawn.toml",
+          "name": "PanthalassaSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1261,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/spawn/PanthalassaSpawn.toml",
+            "MD5": "58fda4798e547e51b806234c01588326",
+            "path": "config/adaptive_performance_tweaks/spawn/PanthalassaSpawn.toml"
+          }
+        },
+        {
+          "id": "QuarkSpawn.toml",
+          "name": "QuarkSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 965,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/spawn/QuarkSpawn.toml",
+            "MD5": "c0366671aa6b6e7e3d4d534d6bc927f0",
+            "path": "config/adaptive_performance_tweaks/spawn/QuarkSpawn.toml"
+          }
+        },
+        {
+          "id": "TinkersConstructSpawn.toml",
+          "name": "TinkersConstructSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 442,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/spawn/TinkersConstructSpawn.toml",
+            "MD5": "585537d0c3ddb97f53bc56e888c937cc",
+            "path": "config/adaptive_performance_tweaks/spawn/TinkersConstructSpawn.toml"
+          }
+        },
+        {
+          "id": "UntamedWildsSpawn.toml",
+          "name": "UntamedWildsSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1621,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/spawn/UntamedWildsSpawn.toml",
+            "MD5": "a426e39bf348bf0494a5fc16dbd7c419",
+            "path": "config/adaptive_performance_tweaks/spawn/UntamedWildsSpawn.toml"
+          }
+        },
+        {
+          "id": "UntitledDuck.toml",
+          "name": "UntitledDuck.toml",
+          "type": "File",
+          "artifact": {
+            "size": 656,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/spawn/UntitledDuck.toml",
+            "MD5": "ad2476ede3814b6edbf79e720729792f",
+            "path": "config/adaptive_performance_tweaks/spawn/UntitledDuck.toml"
+          }
+        },
+        {
+          "id": "spawn.toml",
+          "name": "spawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1662,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/adaptive_performance_tweaks/spawn.toml",
+            "MD5": "3410e120aa9b49ee423eac418233120a",
+            "path": "config/adaptive_performance_tweaks/spawn.toml"
+          }
+        },
+        {
+          "id": "antixray.toml",
+          "name": "antixray.toml",
+          "type": "File",
+          "artifact": {
+            "size": 747,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/antixray.toml",
+            "MD5": "45fcedbd5bf95b4554b22c69b258a96b",
+            "path": "config/antixray.toml"
+          }
+        },
+        {
+          "id": "config.json",
+          "name": "config.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/chunky/config.json",
+            "MD5": "9ab54b1a0e1195126370c48b7a7d7b71",
+            "path": "config/chunky/config.json"
+          }
+        },
+        {
+          "id": "overworld.properties",
+          "name": "overworld.properties",
+          "type": "File",
+          "artifact": {
+            "size": 144,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/chunky/tasks/minecraft/overworld.properties",
+            "MD5": "9d6c8112a9e70a60bd7ecd6d918a2ca7",
+            "path": "config/chunky/tasks/minecraft/overworld.properties"
+          }
+        },
+        {
+          "id": "core.toml",
+          "name": "core.toml",
+          "type": "File",
+          "artifact": {
+            "size": 601,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/core.toml",
+            "MD5": "f6a46537ea68ea09e82b7b14a6197703",
+            "path": "config/config/adaptive_performance_tweaks/core.toml"
+          }
+        },
+        {
+          "id": "items.toml",
+          "name": "items.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1010,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/items.toml",
+            "MD5": "1e1e4cf5e26ad89fd3a3780faccb1092",
+            "path": "config/config/adaptive_performance_tweaks/items.toml"
+          }
+        },
+        {
+          "id": "AlexsMobsSpawn.toml",
+          "name": "AlexsMobsSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1948,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/spawn/AlexsMobsSpawn.toml",
+            "MD5": "e5a441fe618c7751d414dd5ec1890185",
+            "path": "config/config/adaptive_performance_tweaks/spawn/AlexsMobsSpawn.toml"
+          }
+        },
+        {
+          "id": "AquacultureSpawn.toml",
+          "name": "AquacultureSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1390,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/spawn/AquacultureSpawn.toml",
+            "MD5": "8392191002c3b562f936e7973fde5047",
+            "path": "config/config/adaptive_performance_tweaks/spawn/AquacultureSpawn.toml"
+          }
+        },
+        {
+          "id": "BornInChaosSpawn.toml",
+          "name": "BornInChaosSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1417,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/spawn/BornInChaosSpawn.toml",
+            "MD5": "ce685f26f020d6749b5fce6d2f766148",
+            "path": "config/config/adaptive_performance_tweaks/spawn/BornInChaosSpawn.toml"
+          }
+        },
+        {
+          "id": "CustomSpawn.toml",
+          "name": "CustomSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 856,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/spawn/CustomSpawn.toml",
+            "MD5": "aa620755deb79a843f38169977e32782",
+            "path": "config/config/adaptive_performance_tweaks/spawn/CustomSpawn.toml"
+          }
+        },
+        {
+          "id": "FishOfThievesSpawn.toml",
+          "name": "FishOfThievesSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 608,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/spawn/FishOfThievesSpawn.toml",
+            "MD5": "6ab5b97cc6a896d9bdb5f7085b5e842b",
+            "path": "config/config/adaptive_performance_tweaks/spawn/FishOfThievesSpawn.toml"
+          }
+        },
+        {
+          "id": "FriendsAndFoesSpawn.toml",
+          "name": "FriendsAndFoesSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 383,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/spawn/FriendsAndFoesSpawn.toml",
+            "MD5": "977a7339d665f81e9795efae8f5e0a81",
+            "path": "config/config/adaptive_performance_tweaks/spawn/FriendsAndFoesSpawn.toml"
+          }
+        },
+        {
+          "id": "GothicSpawn.toml",
+          "name": "GothicSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1202,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/spawn/GothicSpawn.toml",
+            "MD5": "67e49cc4deaea0ab3e835b72d43acf36",
+            "path": "config/config/adaptive_performance_tweaks/spawn/GothicSpawn.toml"
+          }
+        },
+        {
+          "id": "InfernalExpansionSpawn.toml",
+          "name": "InfernalExpansionSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1120,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/spawn/InfernalExpansionSpawn.toml",
+            "MD5": "df0e6a9668827d6abea0cd27b8b2527e",
+            "path": "config/config/adaptive_performance_tweaks/spawn/InfernalExpansionSpawn.toml"
+          }
+        },
+        {
+          "id": "MekanismAdditionsSpawn.toml",
+          "name": "MekanismAdditionsSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1043,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/spawn/MekanismAdditionsSpawn.toml",
+            "MD5": "b68e5ac6b2689522fc047bf95bbe49ee",
+            "path": "config/config/adaptive_performance_tweaks/spawn/MekanismAdditionsSpawn.toml"
+          }
+        },
+        {
+          "id": "MinecraftSpawn.toml",
+          "name": "MinecraftSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3217,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/spawn/MinecraftSpawn.toml",
+            "MD5": "dd99b89c41fedeb48d561dd7f8dfde38",
+            "path": "config/config/adaptive_performance_tweaks/spawn/MinecraftSpawn.toml"
+          }
+        },
+        {
+          "id": "NetherSpawn.toml",
+          "name": "NetherSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1204,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/spawn/NetherSpawn.toml",
+            "MD5": "46c33373ebe1bd1325656b8a9a73e357",
+            "path": "config/config/adaptive_performance_tweaks/spawn/NetherSpawn.toml"
+          }
+        },
+        {
+          "id": "PanthalassaSpawn.toml",
+          "name": "PanthalassaSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1261,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/spawn/PanthalassaSpawn.toml",
+            "MD5": "58fda4798e547e51b806234c01588326",
+            "path": "config/config/adaptive_performance_tweaks/spawn/PanthalassaSpawn.toml"
+          }
+        },
+        {
+          "id": "QuarkSpawn.toml",
+          "name": "QuarkSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 965,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/spawn/QuarkSpawn.toml",
+            "MD5": "c0366671aa6b6e7e3d4d534d6bc927f0",
+            "path": "config/config/adaptive_performance_tweaks/spawn/QuarkSpawn.toml"
+          }
+        },
+        {
+          "id": "TinkersConstructSpawn.toml",
+          "name": "TinkersConstructSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 442,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/spawn/TinkersConstructSpawn.toml",
+            "MD5": "585537d0c3ddb97f53bc56e888c937cc",
+            "path": "config/config/adaptive_performance_tweaks/spawn/TinkersConstructSpawn.toml"
+          }
+        },
+        {
+          "id": "UntamedWildsSpawn.toml",
+          "name": "UntamedWildsSpawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1621,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/spawn/UntamedWildsSpawn.toml",
+            "MD5": "a426e39bf348bf0494a5fc16dbd7c419",
+            "path": "config/config/adaptive_performance_tweaks/spawn/UntamedWildsSpawn.toml"
+          }
+        },
+        {
+          "id": "UntitledDuck.toml",
+          "name": "UntitledDuck.toml",
+          "type": "File",
+          "artifact": {
+            "size": 656,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/spawn/UntitledDuck.toml",
+            "MD5": "ad2476ede3814b6edbf79e720729792f",
+            "path": "config/config/adaptive_performance_tweaks/spawn/UntitledDuck.toml"
+          }
+        },
+        {
+          "id": "spawn.toml",
+          "name": "spawn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1662,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/adaptive_performance_tweaks/spawn.toml",
+            "MD5": "3410e120aa9b49ee423eac418233120a",
+            "path": "config/config/adaptive_performance_tweaks/spawn.toml"
+          }
+        },
+        {
+          "id": "antixray.toml",
+          "name": "antixray.toml",
+          "type": "File",
+          "artifact": {
+            "size": 747,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/antixray.toml",
+            "MD5": "45fcedbd5bf95b4554b22c69b258a96b",
+            "path": "config/config/antixray.toml"
+          }
+        },
+        {
+          "id": "config.json",
+          "name": "config.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/chunky/config.json",
+            "MD5": "9ab54b1a0e1195126370c48b7a7d7b71",
+            "path": "config/config/chunky/config.json"
+          }
+        },
+        {
+          "id": "overworld.properties",
+          "name": "overworld.properties",
+          "type": "File",
+          "artifact": {
+            "size": 144,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/chunky/tasks/minecraft/overworld.properties",
+            "MD5": "9d6c8112a9e70a60bd7ecd6d918a2ca7",
+            "path": "config/config/chunky/tasks/minecraft/overworld.properties"
+          }
+        },
+        {
+          "id": "fml.toml",
+          "name": "fml.toml",
+          "type": "File",
+          "artifact": {
+            "size": 861,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/fml.toml",
+            "MD5": "0e9cce352e708930de2ab5aba989bde9",
+            "path": "config/config/fml.toml"
+          }
+        },
+        {
+          "id": "part_2.snbt",
+          "name": "part_2.snbt",
+          "type": "File",
+          "artifact": {
+            "size": 535,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/ftbquests/quests/chapters/part_2.snbt",
+            "MD5": "442886f5b210b395f2177eaffc1fea60",
+            "path": "config/config/ftbquests/quests/chapters/part_2.snbt"
+          }
+        },
+        {
+          "id": "premire_qute.snbt",
+          "name": "premire_qute.snbt",
+          "type": "File",
+          "artifact": {
+            "size": 96000,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/ftbquests/quests/chapters/premire_qute.snbt",
+            "MD5": "cd3204ff069df5c90b2cf9961dc0a544",
+            "path": "config/config/ftbquests/quests/chapters/premire_qute.snbt"
+          }
+        },
+        {
+          "id": "succs.snbt",
+          "name": "succs.snbt",
+          "type": "File",
+          "artifact": {
+            "size": 2914,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/ftbquests/quests/chapters/succs.snbt",
+            "MD5": "58061355bba9146fd8d93a2b2b451211",
+            "path": "config/config/ftbquests/quests/chapters/succs.snbt"
+          }
+        },
+        {
+          "id": "chapter_groups.snbt",
+          "name": "chapter_groups.snbt",
+          "type": "File",
+          "artifact": {
+            "size": 72,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/ftbquests/quests/chapter_groups.snbt",
+            "MD5": "fc5101cd22a6e7ec5fbe1b668fd9828b",
+            "path": "config/config/ftbquests/quests/chapter_groups.snbt"
+          }
+        },
+        {
+          "id": "data.snbt",
+          "name": "data.snbt",
+          "type": "File",
+          "artifact": {
+            "size": 425,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/ftbquests/quests/data.snbt",
+            "MD5": "8aa5f124342685ff65ee4789ba36574b",
+            "path": "config/config/ftbquests/quests/data.snbt"
+          }
+        },
+        {
+          "id": "ringsofascension-common.toml",
+          "name": "ringsofascension-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1538,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/ringsofascension-common.toml",
+            "MD5": "22742725aa6ca52a26040f1bee4c0314",
+            "path": "config/config/ringsofascension-common.toml"
+          }
+        },
+        {
+          "id": "sophisticatedcore-common.toml",
+          "name": "sophisticatedcore-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4543,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/sophisticatedcore-common.toml",
+            "MD5": "3cc4c3d9e6d881dafb934e047ddfefb5",
+            "path": "config/config/sophisticatedcore-common.toml"
+          }
+        },
+        {
+          "id": "staaaaaaaaaaaack-common.toml",
+          "name": "staaaaaaaaaaaack-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 923,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/staaaaaaaaaaaack-common.toml",
+            "MD5": "18e828335bed6c8fe0b3fdae55035f4d",
+            "path": "config/config/staaaaaaaaaaaack-common.toml"
+          }
+        },
+        {
+          "id": "tarotcards-common.toml",
+          "name": "tarotcards-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2935,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/tarotcards-common.toml",
+            "MD5": "5a1ddc369cd86932a3725d370afc4f75",
+            "path": "config/config/tarotcards-common.toml"
+          }
+        },
+        {
+          "id": "worldedit.properties",
+          "name": "worldedit.properties",
+          "type": "File",
+          "artifact": {
+            "size": 2495,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/config/worldedit/worldedit.properties",
+            "MD5": "91da8c16159627f9ac57e446f0fed9c1",
+            "path": "config/config/worldedit/worldedit.properties"
+          }
+        },
+        {
+          "id": "fml.toml",
+          "name": "fml.toml",
+          "type": "File",
+          "artifact": {
+            "size": 861,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/fml.toml",
+            "MD5": "0e9cce352e708930de2ab5aba989bde9",
+            "path": "config/fml.toml"
+          }
+        },
+        {
+          "id": "part_2.snbt",
+          "name": "part_2.snbt",
+          "type": "File",
+          "artifact": {
+            "size": 535,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/ftbquests/quests/chapters/part_2.snbt",
+            "MD5": "442886f5b210b395f2177eaffc1fea60",
+            "path": "config/ftbquests/quests/chapters/part_2.snbt"
+          }
+        },
+        {
+          "id": "premire_qute.snbt",
+          "name": "premire_qute.snbt",
+          "type": "File",
+          "artifact": {
+            "size": 96000,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/ftbquests/quests/chapters/premire_qute.snbt",
+            "MD5": "cd3204ff069df5c90b2cf9961dc0a544",
+            "path": "config/ftbquests/quests/chapters/premire_qute.snbt"
+          }
+        },
+        {
+          "id": "succs.snbt",
+          "name": "succs.snbt",
+          "type": "File",
+          "artifact": {
+            "size": 2914,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/ftbquests/quests/chapters/succs.snbt",
+            "MD5": "58061355bba9146fd8d93a2b2b451211",
+            "path": "config/ftbquests/quests/chapters/succs.snbt"
+          }
+        },
+        {
+          "id": "chapter_groups.snbt",
+          "name": "chapter_groups.snbt",
+          "type": "File",
+          "artifact": {
+            "size": 72,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/ftbquests/quests/chapter_groups.snbt",
+            "MD5": "fc5101cd22a6e7ec5fbe1b668fd9828b",
+            "path": "config/ftbquests/quests/chapter_groups.snbt"
+          }
+        },
+        {
+          "id": "data.snbt",
+          "name": "data.snbt",
+          "type": "File",
+          "artifact": {
+            "size": 425,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/ftbquests/quests/data.snbt",
+            "MD5": "8aa5f124342685ff65ee4789ba36574b",
+            "path": "config/ftbquests/quests/data.snbt"
+          }
+        },
+        {
+          "id": "LISEZMOIBORDEL.txt",
+          "name": "LISEZMOIBORDEL.txt",
+          "type": "File",
+          "artifact": {
+            "size": 310,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/LISEZMOIBORDEL.txt",
+            "MD5": "0cc25a1d33b2d6fdc8951d2f6402979d",
+            "path": "config/LISEZMOIBORDEL.txt"
+          }
+        },
+        {
+          "id": "adaptive_performance_tweaks_core_1.20.1-10.2.0.jar",
+          "name": "adaptive_performance_tweaks_core_1.20.1-10.2.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 119645,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/adaptive_performance_tweaks_core_1.20.1-10.2.0.jar",
+            "MD5": "cff1ab448806cbdf43d9d6ebf1e035f1",
+            "path": "config/mods/adaptive_performance_tweaks_core_1.20.1-10.2.0.jar"
+          }
+        },
+        {
+          "id": "adaptive_performance_tweaks_items_1.20.1-10.0.0.jar",
+          "name": "adaptive_performance_tweaks_items_1.20.1-10.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 71884,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/adaptive_performance_tweaks_items_1.20.1-10.0.0.jar",
+            "MD5": "97bcafc54e9a01ce5e50c8e9b558b7f3",
+            "path": "config/mods/adaptive_performance_tweaks_items_1.20.1-10.0.0.jar"
+          }
+        },
+        {
+          "id": "adaptive_performance_tweaks_spawn_1.20.1-10.2.0.jar",
+          "name": "adaptive_performance_tweaks_spawn_1.20.1-10.2.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 143111,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/adaptive_performance_tweaks_spawn_1.20.1-10.2.0.jar",
+            "MD5": "d55839ef13b7b5d39f5161da0afb24e8",
+            "path": "config/mods/adaptive_performance_tweaks_spawn_1.20.1-10.2.0.jar"
+          }
+        },
+        {
+          "id": "anti-xray-1.3.1-Forge-1.20.1.jar",
+          "name": "anti-xray-1.3.1-Forge-1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 107144,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/anti-xray-1.3.1-Forge-1.20.1.jar",
+            "MD5": "63df14590145166e452ab2c6ac7bba2d",
+            "path": "config/mods/anti-xray-1.3.1-Forge-1.20.1.jar"
+          }
+        },
+        {
+          "id": "antique_pickaxe_V0.9.4.jar",
+          "name": "antique_pickaxe_V0.9.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 610752,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/antique_pickaxe_V0.9.4.jar",
+            "MD5": "72106cb9ed1454e489ba0d2a56977619",
+            "path": "config/mods/antique_pickaxe_V0.9.4.jar"
+          }
+        },
+        {
+          "id": "architectury-9.0.8-forge.jar",
+          "name": "architectury-9.0.8-forge.jar",
+          "type": "File",
+          "artifact": {
+            "size": 567166,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/architectury-9.0.8-forge.jar",
+            "MD5": "02ac749cdcd9f064202dd0253b59365c",
+            "path": "config/mods/architectury-9.0.8-forge.jar"
+          }
+        },
+        {
+          "id": "caveblock1.20.1.jar",
+          "name": "caveblock1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 12648,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/caveblock1.20.1.jar",
+            "MD5": "6da030f3cabaa02eb44865a24c73193d",
+            "path": "config/mods/caveblock1.20.1.jar"
+          }
+        },
+        {
+          "id": "Chunky-1.3.92.jar",
+          "name": "Chunky-1.3.92.jar",
+          "type": "File",
+          "artifact": {
+            "size": 327983,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/Chunky-1.3.92.jar",
+            "MD5": "e5bd56578b84303db9ebd2a851e0be6d",
+            "path": "config/mods/Chunky-1.3.92.jar"
+          }
+        },
+        {
+          "id": "cosmeticarmorreworked-1.20.1-v1a.jar",
+          "name": "cosmeticarmorreworked-1.20.1-v1a.jar",
+          "type": "File",
+          "artifact": {
+            "size": 88752,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+            "MD5": "2454075e9a25cbadc0fce66502e3261d",
+            "path": "config/mods/cosmeticarmorreworked-1.20.1-v1a.jar"
+          }
+        },
+        {
+          "id": "CosmeticArmours+-+1.3.3.1+-+1.20.1.jar",
+          "name": "CosmeticArmours+-+1.3.3.1+-+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1438349,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/CosmeticArmours+-+1.3.3.1+-+1.20.1.jar",
+            "MD5": "ab761a813175cc8c17f1c88b7725bf0f",
+            "path": "config/mods/CosmeticArmours+-+1.3.3.1+-+1.20.1.jar"
+          }
+        },
+        {
+          "id": "curios-forge-5.4.5+1.20.1.jar",
+          "name": "curios-forge-5.4.5+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 308622,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/curios-forge-5.4.5+1.20.1.jar",
+            "MD5": "708c8db2f130c4483024eabc8dad31b8",
+            "path": "config/mods/curios-forge-5.4.5+1.20.1.jar"
+          }
+        },
+        {
+          "id": "EndlessBiomes 1.4.2s - 1.20.1.jar",
+          "name": "EndlessBiomes 1.4.2s - 1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2833153,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/EndlessBiomes%201.4.2s%20-%201.20.1.jar",
+            "MD5": "48f3767ee37649ca1e107370d61bca68",
+            "path": "config/mods/EndlessBiomes 1.4.2s - 1.20.1.jar"
+          }
+        },
+        {
+          "id": "ftb-essentials-forge-2001.2.1.jar",
+          "name": "ftb-essentials-forge-2001.2.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 155787,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/ftb-essentials-forge-2001.2.1.jar",
+            "MD5": "1d21f4afa79eb46063839f39452ae38f",
+            "path": "config/mods/ftb-essentials-forge-2001.2.1.jar"
+          }
+        },
+        {
+          "id": "ftb-library-forge-2001.1.4.jar",
+          "name": "ftb-library-forge-2001.1.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 616503,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/ftb-library-forge-2001.1.4.jar",
+            "MD5": "709d4779d4e29419cbb43f2b5f8cea1d",
+            "path": "config/mods/ftb-library-forge-2001.1.4.jar"
+          }
+        },
+        {
+          "id": "ftb-quests-forge-2001.2.0.jar",
+          "name": "ftb-quests-forge-2001.2.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1151752,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/ftb-quests-forge-2001.2.0.jar",
+            "MD5": "63ac51a16cd3c26bf752f22683f9330f",
+            "path": "config/mods/ftb-quests-forge-2001.2.0.jar"
+          }
+        },
+        {
+          "id": "ftb-ranks-forge-2001.1.3.jar",
+          "name": "ftb-ranks-forge-2001.1.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 85218,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/ftb-ranks-forge-2001.1.3.jar",
+            "MD5": "3a2157d8b065b9c94229589e11632ebb",
+            "path": "config/mods/ftb-ranks-forge-2001.1.3.jar"
+          }
+        },
+        {
+          "id": "ftb-teams-forge-2001.1.4.jar",
+          "name": "ftb-teams-forge-2001.1.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 240019,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/ftb-teams-forge-2001.1.4.jar",
+            "MD5": "c3bc5ac7c14e198df40b2b448322f66a",
+            "path": "config/mods/ftb-teams-forge-2001.1.4.jar"
+          }
+        },
+        {
+          "id": "item-filters-forge-2001.1.0-build.59.jar",
+          "name": "item-filters-forge-2001.1.0-build.59.jar",
+          "type": "File",
+          "artifact": {
+            "size": 110191,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/item-filters-forge-2001.1.0-build.59.jar",
+            "MD5": "4155fd7faf7daf46f9dcb914e93893e1",
+            "path": "config/mods/item-filters-forge-2001.1.0-build.59.jar"
+          }
+        },
+        {
+          "id": "jei-1.20.1-forge-15.2.0.27.jar",
+          "name": "jei-1.20.1-forge-15.2.0.27.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1112891,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/jei-1.20.1-forge-15.2.0.27.jar",
+            "MD5": "24845f7c3a6ddc59e9dcf97a2d493afa",
+            "path": "config/mods/jei-1.20.1-forge-15.2.0.27.jar"
+          }
+        },
+        {
+          "id": "mining_dimension-1.20.1-1.0.4.jar",
+          "name": "mining_dimension-1.20.1-1.0.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 151764,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/mining_dimension-1.20.1-1.0.4.jar",
+            "MD5": "2d37522a2fc5fa1f70ca749316babf4e",
+            "path": "config/mods/mining_dimension-1.20.1-1.0.4.jar"
+          }
+        },
+        {
+          "id": "moredragoneggs-4.0.jar",
+          "name": "moredragoneggs-4.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 7028,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/moredragoneggs-4.0.jar",
+            "MD5": "fd848b375f4e13a1399ee39afe493160",
+            "path": "config/mods/moredragoneggs-4.0.jar"
+          }
+        },
+        {
+          "id": "open-parties-and-claims-forge-1.20.1-0.20.1.jar",
+          "name": "open-parties-and-claims-forge-1.20.1-0.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1218736,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/open-parties-and-claims-forge-1.20.1-0.20.1.jar",
+            "MD5": "260c5177e4804a4eb7acf5c9883ad72d",
+            "path": "config/mods/open-parties-and-claims-forge-1.20.1-0.20.1.jar"
+          }
+        },
+        {
+          "id": "polymorph-quilt-0.49.1+1.20.1.jar",
+          "name": "polymorph-quilt-0.49.1+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 666344,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/polymorph-quilt-0.49.1+1.20.1.jar",
+            "MD5": "3f72a2d879421ee4ea2a5a94d93ef0b2",
+            "path": "config/mods/polymorph-quilt-0.49.1+1.20.1.jar"
+          }
+        },
+        {
+          "id": "RingsOfAscension-1.20.1-2.0.1.jar",
+          "name": "RingsOfAscension-1.20.1-2.0.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 378265,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/RingsOfAscension-1.20.1-2.0.1.jar",
+            "MD5": "3f479beeb4180a365f433ddb62659edb",
+            "path": "config/mods/RingsOfAscension-1.20.1-2.0.1.jar"
+          }
+        },
+        {
+          "id": "sophisticatedcore-1.20.1-0.5.108.504.jar",
+          "name": "sophisticatedcore-1.20.1-0.5.108.504.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1044317,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/sophisticatedcore-1.20.1-0.5.108.504.jar",
+            "MD5": "b1e46f68888d3295f6b91df50638a482",
+            "path": "config/mods/sophisticatedcore-1.20.1-0.5.108.504.jar"
+          }
+        },
+        {
+          "id": "sophisticatedstorage-1.20.1-0.8.58.644.jar",
+          "name": "sophisticatedstorage-1.20.1-0.8.58.644.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1048249,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/sophisticatedstorage-1.20.1-0.8.58.644.jar",
+            "MD5": "64fa5f5199c259c8dd06453f50b19fe7",
+            "path": "config/mods/sophisticatedstorage-1.20.1-0.8.58.644.jar"
+          }
+        },
+        {
+          "id": "staaaaaaaaaaaack-forge-1.20-1.4-61.jar",
+          "name": "staaaaaaaaaaaack-forge-1.20-1.4-61.jar",
+          "type": "File",
+          "artifact": {
+            "size": 35841,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/staaaaaaaaaaaack-forge-1.20-1.4-61.jar",
+            "MD5": "0dd4fe1a43db1a84f2b8410b9e5f5a8d",
+            "path": "config/mods/staaaaaaaaaaaack-forge-1.20-1.4-61.jar"
+          }
+        },
+        {
+          "id": "Structory_1.20.2_v1.3.3.jar",
+          "name": "Structory_1.20.2_v1.3.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1243353,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/Structory_1.20.2_v1.3.3.jar",
+            "MD5": "eb0b5fe2a88e4e53cc9b9321047ac0ae",
+            "path": "config/mods/Structory_1.20.2_v1.3.3.jar"
+          }
+        },
+        {
+          "id": "tarotcards-1.20-1.5.5.jar",
+          "name": "tarotcards-1.20-1.5.5.jar",
+          "type": "File",
+          "artifact": {
+            "size": 110911,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/tarotcards-1.20-1.5.5.jar",
+            "MD5": "9f69a57b68288f5236fe3a1d76ca1bc2",
+            "path": "config/mods/tarotcards-1.20-1.5.5.jar"
+          }
+        },
+        {
+          "id": "toofast-1.20-0.4.3.5.jar",
+          "name": "toofast-1.20-0.4.3.5.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3875,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/toofast-1.20-0.4.3.5.jar",
+            "MD5": "33c8f4dc6703ee68b415ed203b3a380c",
+            "path": "config/mods/toofast-1.20-0.4.3.5.jar"
+          }
+        },
+        {
+          "id": "Vanishmod-1.20.1-1.1.14.jar",
+          "name": "Vanishmod-1.20.1-1.1.14.jar",
+          "type": "File",
+          "artifact": {
+            "size": 55273,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/Vanishmod-1.20.1-1.1.14.jar",
+            "MD5": "1c00532020b8b4933594c49f2b6f8102",
+            "path": "config/mods/Vanishmod-1.20.1-1.1.14.jar"
+          }
+        },
+        {
+          "id": "worldedit-mod-7.2.15.jar",
+          "name": "worldedit-mod-7.2.15.jar",
+          "type": "File",
+          "artifact": {
+            "size": 5825402,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/worldedit-mod-7.2.15.jar",
+            "MD5": "bd0e7cff7896348faab92e43300d0639",
+            "path": "config/mods/worldedit-mod-7.2.15.jar"
+          }
+        },
+        {
+          "id": "XaerosWorldMap_1.37.2_Forge_1.20.jar",
+          "name": "XaerosWorldMap_1.37.2_Forge_1.20.jar",
+          "type": "File",
+          "artifact": {
+            "size": 863515,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/XaerosWorldMap_1.37.2_Forge_1.20.jar",
+            "MD5": "1b322f301d5a37d1de297c0a20cbb471",
+            "path": "config/mods/XaerosWorldMap_1.37.2_Forge_1.20.jar"
+          }
+        },
+        {
+          "id": "Xaeros_Minimap_23.9.3_Forge_1.20.jar",
+          "name": "Xaeros_Minimap_23.9.3_Forge_1.20.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1339961,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/Xaeros_Minimap_23.9.3_Forge_1.20.jar",
+            "MD5": "591c446c9c019672698f7dcd0c699f52",
+            "path": "config/mods/Xaeros_Minimap_23.9.3_Forge_1.20.jar"
+          }
+        },
+        {
+          "id": "yawp-1.20.1-0.0.2.9-beta3-forge.jar",
+          "name": "yawp-1.20.1-0.0.2.9-beta3-forge.jar",
+          "type": "File",
+          "artifact": {
+            "size": 405318,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/yawp-1.20.1-0.0.2.9-beta3-forge.jar",
+            "MD5": "2f6574428d926c5c50831f9bc5f5f0a3",
+            "path": "config/mods/yawp-1.20.1-0.0.2.9-beta3-forge.jar"
+          }
+        },
+        {
+          "id": "YungsApi-1.20-Forge-4.0.2.jar",
+          "name": "YungsApi-1.20-Forge-4.0.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 346402,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/YungsApi-1.20-Forge-4.0.2.jar",
+            "MD5": "0f8ae82c18db762892048c014a7e23b2",
+            "path": "config/mods/YungsApi-1.20-Forge-4.0.2.jar"
+          }
+        },
+        {
+          "id": "YungsBetterEndIsland-1.20-Forge-2.0.4.jar",
+          "name": "YungsBetterEndIsland-1.20-Forge-2.0.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 382416,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/mods/YungsBetterEndIsland-1.20-Forge-2.0.4.jar",
+            "MD5": "59aa90e4eab4757d59c2c14eb2721ecd",
+            "path": "config/mods/YungsBetterEndIsland-1.20-Forge-2.0.4.jar"
+          }
+        },
+        {
+          "id": "ringsofascension-common.toml",
+          "name": "ringsofascension-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1538,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/ringsofascension-common.toml",
+            "MD5": "22742725aa6ca52a26040f1bee4c0314",
+            "path": "config/ringsofascension-common.toml"
+          }
+        },
+        {
+          "id": "sophisticatedcore-common.toml",
+          "name": "sophisticatedcore-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4543,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/sophisticatedcore-common.toml",
+            "MD5": "3cc4c3d9e6d881dafb934e047ddfefb5",
+            "path": "config/sophisticatedcore-common.toml"
+          }
+        },
+        {
+          "id": "staaaaaaaaaaaack-common.toml",
+          "name": "staaaaaaaaaaaack-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 923,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/staaaaaaaaaaaack-common.toml",
+            "MD5": "18e828335bed6c8fe0b3fdae55035f4d",
+            "path": "config/staaaaaaaaaaaack-common.toml"
+          }
+        },
+        {
+          "id": "tarotcards-common.toml",
+          "name": "tarotcards-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2935,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/tarotcards-common.toml",
+            "MD5": "5a1ddc369cd86932a3725d370afc4f75",
+            "path": "config/tarotcards-common.toml"
+          }
+        },
+        {
+          "id": "worldedit.properties",
+          "name": "worldedit.properties",
+          "type": "File",
+          "artifact": {
+            "size": 2495,
+            "url": "https://overfarm.fr/launcher/servers/Overfarm-1.20.1/files/config/worldedit/worldedit.properties",
+            "MD5": "91da8c16159627f9ac57e446f0fed9c1",
+            "path": "config/worldedit/worldedit.properties"
           }
         }
       ]
