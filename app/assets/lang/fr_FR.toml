@@ -32,7 +32,7 @@ loginButtonText = "CONNEXION"
 loginNeedAccountLink = "https://minecraft.net/store/minecraft-java-edition/"
 loginNeedAccountText = "Besoin d'un compte?"
 loginPasswordDisclaimer1 = "Votre mot de passe ne passe pas par nos serveurs et va directement à Mojang."
-loginPasswordDisclaimer2 = "Helios Launcher is not affiliated with Mojang AB."
+loginPasswordDisclaimer2 = "Overfarm Launcher is not affiliated with Mojang AB."
 
 [ejs.loginOptions]
 loginOptionsTitle = "Options de connexion"
@@ -107,7 +107,7 @@ chooseFolder = "Choisi un dossier"
 dataDirectoryDesc = "All game files and local Java installations will be stored in the data directory.<br>Screenshots and world saves are stored in the instance folder for the corresponding server configuration."
 aboutTabHeaderText = "À Propos"
 aboutTabHeaderDesc = "View information and release notes for the current version."
-aboutTitle = "Helios Launcher"
+aboutTitle = "Overfarm Launcher"
 stableRelease = "Version Stable"
 versionText = "Version "
 sourceGithub = "Source (GitHub)"
@@ -129,6 +129,13 @@ waitingText = "Chargement.."
 [ejs.welcome]
 continueButton = "CONTINUER"
 
+[js.discord]
+waiting = "Waiting for Client.."
+state = "Server: {shortId}"
+
+[js.index]
+microsoftLoginTitle = "Microsoft Login"
+microsoftLogoutTitle = "Microsoft Logout"
 
 [js.login]
 login = "CONNEXION"
