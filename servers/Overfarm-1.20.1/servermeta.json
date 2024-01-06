@@ -1,7 +1,7 @@
 {
   "$schema": "file:///C:/Users/cedri/HeliosLauncher/Nebula/export/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "2.2.2",
+    "version": "2.2.4",
     "name": "Overfarm (Minecraft 1.20.1)",
     "description": "Overfarm Optimised (Minecraft 1.20.1/Forge v47.2.0)",
     "icon": "https://overfarm.fr/storage/img/logo2.png",
